@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.HealthTracker" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- The name "AppTheme" here now matches what AndroidManifest.xml is looking for. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- You can add customizations here later -->
+    </style>
 </resources>
